@@ -5,11 +5,6 @@
         <link href="https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700" rel="stylesheet">
         <link rel="stylesheet" href="assets/css/estilo.css">
         <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-        <script>
-            $("#form").submit(function() {
-            event.preventDefault();
-            });
-        </script>
         <title>IMC</title>
     </head>
     <body>
